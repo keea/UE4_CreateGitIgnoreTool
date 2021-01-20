@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CreateGitIgnoreTool",
+	"Description": "Create a gitignore file and add the selected assets to gitignore.",
+	"Category": "Other",
+	"CreatedBy": "Keea",
+	"CreatedByURL": "https://keea.me/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CreateGitIgnoreTool",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
